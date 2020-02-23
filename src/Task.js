@@ -4,7 +4,7 @@ import styled from "styled-components";
 const TaskContainer = styled.div``;
 
 const TaskWrapper = styled.div`
-  background-color: red; // #a0d9a2;
+  background-color: #a0d9a2;
   width: 200px;
   height: 60px;
   padding: 20px;
@@ -13,7 +13,7 @@ const TaskWrapper = styled.div`
   text-align: center;
 
   :hover {
-    box-shadow: 5px 5px 10px #888888;
+    background-color: #68c777;
   }
 `;
 
