@@ -1,12 +1,10 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 
-const TaskContainer = styled.div`
-  
-`
+const TaskContainer = styled.div``;
 
 const TaskWrapper = styled.div`
-  background-color: #a0d9a2;
+  background-color: red; // #a0d9a2;
   width: 200px;
   height: 60px;
   padding: 20px;
